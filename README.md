@@ -1,11 +1,11 @@
-# Hey there! I'm Varshith by the way
+# Hey there! Varshith here
 
 ## About Me
 An undergraduate student majoring in Artificial Intelligence & Data Science with an objective of developing innovative applications to solve real-world problems.
 
 - 🌱 I’m currently learning: Deep Learning techniques, NLP, and Data Visualization
 - 💬 Ask me about: Python, Machine Learning, Data Analysis, Deep Learning
-- 📫 How to reach me: [Email](mailto:psinghvarshith@gmail.com), [LinkedIn](https://www.linkedin.com/in/varshith-p-singh-676571259/)
+- 📫 How to reach me: psinghvarshith@gmail.com
 
 
 ## 💻 Technologies & Tools
