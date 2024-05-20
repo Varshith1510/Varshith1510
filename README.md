@@ -1,10 +1,11 @@
-# Hey there, I'm Varshith
+# Hey there! I'm Varshith by the way
 
 ## About Me
-I'm an undergraduate student majoring in Artificial Intelligence & Data Science. Passionate about data science, machine learning, and developing innovative applications to solve real-world problems.
+An undergraduate student majoring in Artificial Intelligence & Data Science with an objective of developing innovative applications to solve real-world problems.
 
 - 🌱 I’m currently learning: Deep Learning techniques, NLP, and Data Visualization
 - 💬 Ask me about: Python, Machine Learning, Data Analysis, Deep Learning
+- 📫 How to reach me: [Email](mailto:psinghvarshith@gmail.com), [LinkedIn](https://www.linkedin.com/in/varshith-p-singh-676571259/)
 
 
 ## 💻 Technologies & Tools
@@ -15,8 +16,4 @@ I'm an undergraduate student majoring in Artificial Intelligence & Data Science.
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0175C2?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/varshith-p-singh-676571259/)
-- [GitHub](https://github.com/Varshith1510)
-- [Email](mailto:psinghvarshith@gmail.com)
 
