@@ -5,7 +5,7 @@ An undergraduate student majoring in Artificial Intelligence & Data Science with
 
 - 🌱 I’m currently learning: Deep Learning techniques, NLP, and Data Visualization
 - 💬 Ask me about: Python, Machine Learning, Data Analysis, Deep Learning
-- 📫 How to reach me: psinghvarshith@gmail.com
+- 📫 Contact me: psinghvarshith@gmail.com
 
 
 ## 💻 Technologies & Tools
